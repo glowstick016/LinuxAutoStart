@@ -1,0 +1,7 @@
+In init.sh
+	Mkae Kerberos, sssd
+	Realms
+		Add the permits & login
+	DNS testing, sssd testing, Kerberos Testing
+	Blue downloads (Cisco, KACE, Crowstrike, etc.)
+	

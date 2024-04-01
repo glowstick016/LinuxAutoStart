@@ -1,0 +1,19 @@
+[libdefaults]
+	default_realm = WIN.UDEL.EDU
+	dns_lookup_realm = true
+	dns_lookup_kdc = true
+	ticket_lifetime = 4h
+	renew_lifetime = 4h
+	forwardable = true
+	rdns = false
+
+[realms]
+
+	WIN.UDEL.EDU = {
+		kdc = win.udel.edu
+		admin_server = win.udel.edu
+	}	
+
+[domain_realm]
+	.win.udel.edu = WIN.UDEL.EDU
+	win.udel.edu = WIN.UDEL.EDU

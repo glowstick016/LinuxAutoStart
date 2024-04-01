@@ -1,0 +1,13 @@
+### Instructions on how to run this script
+run sudo ./init.sh
+Need to run twice 
+	First run is for updating the system and restarting 
+	Second is to do the configuration
+	
+
+If need to rerun the script as a whole need to do the following
+	Trim the last line of realmd
+	Go to the location where kerb (krb5.conf), realmd(realmd.conf), snmp (/cups/snmp.conf), sane.d/(epson2.conf, kodakaio.conf,magicolor.conf)  are pasted to in /etc and remove 
+
+Troubleshooting
+		

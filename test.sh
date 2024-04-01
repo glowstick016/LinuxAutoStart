@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./hostFunc.sh

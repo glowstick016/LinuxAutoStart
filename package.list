@@ -1,0 +1,12 @@
+vim
+ssh
+cifs-utils
+postfix
+mailutils
+sssd-ad
+sssd-tools
+realmd
+adcli
+oddjob-mkhomedir
+krb5-user
+sssd-krb5
