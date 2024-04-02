@@ -1,0 +1,1 @@
+computer-ou = ou=Client-Linux,ou=BMEG,ou=engr,ou=university,dc=win,dc=udel,dc=edu

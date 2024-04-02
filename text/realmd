@@ -1,0 +1,14 @@
+[users]
+	default-home = /home/%U@%D
+	default-shell= /bin/bash
+
+[active-directory]
+	default-client = sssd
+
+[service]
+	automatic_install = no
+
+[win.udel.edu]
+	user-principal = yes
+	fully-qualified-names = no
+	
